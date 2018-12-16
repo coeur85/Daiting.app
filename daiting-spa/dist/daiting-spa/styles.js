@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/magdi/Documents/dotnet/daiting-spa/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting-spa/src/styles.css */"./src/styles.css");
 
 
 /***/ })

@@ -9,3 +9,14 @@
 /Users/magdi/Documents/dotnet/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.AssemblyInfo.cs
 /Users/magdi/Documents/dotnet/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.dll
 /Users/magdi/Documents/dotnet/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.pdb
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/bin/Debug/netcoreapp2.0/daiting.api.deps.json
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/bin/Debug/netcoreapp2.0/daiting.api.runtimeconfig.json
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/bin/Debug/netcoreapp2.0/daiting.api.runtimeconfig.dev.json
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/bin/Debug/netcoreapp2.0/daiting.api.dll
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/bin/Debug/netcoreapp2.0/daiting.api.pdb
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.csprojAssemblyReference.cache
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.csproj.CoreCompileInputs.cache
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.AssemblyInfoInputs.cache
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.AssemblyInfo.cs
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.dll
+/Users/magdi/Documents/Projects/DotnetCore/Daiting.app/daiting.api/obj/Debug/netcoreapp2.0/daiting.api.pdb
