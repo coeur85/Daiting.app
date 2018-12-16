@@ -6,9 +6,11 @@ import { AppComponent } from './app.component';
 import { ValueComponent } from 'src/Value/Value.component';
 import { HttpClientModule } from '@angular/common/http';
 
+
 @NgModule({
    declarations: [
       AppComponent,
+      ValueComponent,
       ValueComponent
    ],
    imports: [
